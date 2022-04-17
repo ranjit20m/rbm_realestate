@@ -1,0 +1,9 @@
+1. npx create-next-app@latest ./
+2. Create .babelrc file
+{
+    "presets": ["next/babel"],
+    "plugins": []
+}
+3. npm run dev
+4. http://localhost:3000/
+5. npm install @chakra-ui/react @emotion/react @emotion/styled axios framer-motion millify nprogress react-horizontal-scrolling-menu react-icons
